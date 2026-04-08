@@ -1,1 +1,2 @@
-React 3 ensimmäistä harjoitustyötä : App_1, App_2 ja App_3.
+React 5 ensimmäistä harjoitustyötä : App_1, App_2, App_3, App_4 ja App_5.
+Tiedostot ovat md -formaatissa ja nimetty uudelleen app.jsx tiedostosta, tämän vuoksi koodissa näkyy export default App.
